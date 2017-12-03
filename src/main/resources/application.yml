@@ -1,0 +1,5 @@
+spring.metrics.statsd:
+  enabled: true
+  flavor: telegraf
+  host: localhost
+  port: 8125
